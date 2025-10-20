@@ -10,7 +10,7 @@
 
 ### ⚡ Tech Stack
 - 💻 Languages: JavaScript, PHP, Python
-- 🛠️ Frontend: Vue, React, Tailwind, UnoCSS
-- ⚙️ Backend: Node.js, Express, MongoDB, MySQL
-- ☁️ Deployment: Cloudflare Pages, Render
+- 🛠️ Frontend: Vue, React, Tailwind, UnoCSS, Figma
+- ⚙️ Backend: Node.js, Express, MongoDB, MySQL, Django
+- ☁️ Deployment: Cloudflare Pages, Render, Railway, Netlify
 
