@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Sachin!
 
-🚀 I'm a full-stack web developer from Nepal 🇳🇵  
-💼 Building: StockPilot, Sachlean and Mindshous  
-🔭 Currently working on: Vue + UnoCSS + MongoDB stack  
+🚀 I'm Sachin Pandey, founder of Yoga Write Code, an AI Content Operating System for SaaS teams. I write about AI, SEO, content marketing, SaaS, product building, and lessons from customer discovery. 
+💼 Building: Yoga Write Code  
 🌐 Portfolio: [mysite.com](https://sachinpandey.com.np)  
 📫 How to reach me: [Email Me](sachinpae0@gmail.com)  
 
@@ -10,7 +9,7 @@
 
 ### ⚡ Tech Stack
 - 💻 Languages: JavaScript, PHP, Python
-- 🛠️ Frontend: Vue, React, Tailwind, UnoCSS, Figma
-- ⚙️ Backend: Node.js, Express, MongoDB, MySQL, Django
+- 🛠️ Frontend: Next.js, React, Tailwind, Figma, Wordpress
+- ⚙️ Backend: Node.js, Express, MongoDB, MySQL
 - ☁️ Deployment: Cloudflare Pages, Render, Railway, Netlify
 
